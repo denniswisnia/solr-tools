@@ -1,0 +1,4 @@
+#Solr-tools
+
+Simple shell script to manage Solr Cores
+
